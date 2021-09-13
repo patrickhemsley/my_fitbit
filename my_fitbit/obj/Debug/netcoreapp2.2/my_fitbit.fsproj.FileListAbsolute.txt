@@ -1,0 +1,13 @@
+D:\dev\patrick\my_fitbit\my_fitbit\bin\Debug\netcoreapp2.2\my_fitbit.deps.json
+D:\dev\patrick\my_fitbit\my_fitbit\bin\Debug\netcoreapp2.2\my_fitbit.runtimeconfig.json
+D:\dev\patrick\my_fitbit\my_fitbit\bin\Debug\netcoreapp2.2\my_fitbit.runtimeconfig.dev.json
+D:\dev\patrick\my_fitbit\my_fitbit\bin\Debug\netcoreapp2.2\my_fitbit.dll
+D:\dev\patrick\my_fitbit\my_fitbit\bin\Debug\netcoreapp2.2\my_fitbit.pdb
+D:\dev\patrick\my_fitbit\my_fitbit\bin\Debug\netcoreapp2.2\Parser.dll
+D:\dev\patrick\my_fitbit\my_fitbit\bin\Debug\netcoreapp2.2\Parser.pdb
+D:\dev\patrick\my_fitbit\my_fitbit\obj\Debug\netcoreapp2.2\my_fitbit.fsprojAssemblyReference.cache
+D:\dev\patrick\my_fitbit\my_fitbit\obj\Debug\netcoreapp2.2\my_fitbit.AssemblyInfoInputs.cache
+D:\dev\patrick\my_fitbit\my_fitbit\obj\Debug\netcoreapp2.2\my_fitbit.AssemblyInfo.fs
+D:\dev\patrick\my_fitbit\my_fitbit\obj\Debug\netcoreapp2.2\my_fitbit.fsproj.CopyComplete
+D:\dev\patrick\my_fitbit\my_fitbit\obj\Debug\netcoreapp2.2\my_fitbit.dll
+D:\dev\patrick\my_fitbit\my_fitbit\obj\Debug\netcoreapp2.2\my_fitbit.pdb

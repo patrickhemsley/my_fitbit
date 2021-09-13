@@ -1,0 +1,8 @@
+D:\dev\patrick\my_fitbit\Parser\bin\Debug\netstandard2.0\Parser.deps.json
+D:\dev\patrick\my_fitbit\Parser\bin\Debug\netstandard2.0\Parser.dll
+D:\dev\patrick\my_fitbit\Parser\bin\Debug\netstandard2.0\Parser.pdb
+D:\dev\patrick\my_fitbit\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfoInputs.cache
+D:\dev\patrick\my_fitbit\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfo.fs
+D:\dev\patrick\my_fitbit\Parser\obj\Debug\netstandard2.0\Parser.dll
+D:\dev\patrick\my_fitbit\Parser\obj\Debug\netstandard2.0\Parser.pdb
+D:\dev\patrick\my_fitbit\Parser\obj\Debug\netstandard2.0\Parser.fsprojAssemblyReference.cache

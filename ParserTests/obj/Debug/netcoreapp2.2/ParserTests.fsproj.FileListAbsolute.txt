@@ -1,0 +1,16 @@
+D:\dev\patrick\my_fitbit\ParserTests\obj\Debug\netcoreapp2.2\ParserTests.fsprojAssemblyReference.cache
+D:\dev\patrick\my_fitbit\ParserTests\obj\Debug\netcoreapp2.2\ParserTests.AssemblyInfoInputs.cache
+D:\dev\patrick\my_fitbit\ParserTests\obj\Debug\netcoreapp2.2\ParserTests.AssemblyInfo.fs
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\ParserTests.deps.json
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\ParserTests.runtimeconfig.json
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\ParserTests.runtimeconfig.dev.json
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\ParserTests.dll
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\ParserTests.pdb
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\Parser.dll
+D:\dev\patrick\my_fitbit\ParserTests\bin\Debug\netcoreapp2.2\Parser.pdb
+D:\dev\patrick\my_fitbit\ParserTests\obj\Debug\netcoreapp2.2\ParserTests.fsproj.CopyComplete
+D:\dev\patrick\my_fitbit\ParserTests\obj\Debug\netcoreapp2.2\ParserTests.dll
+D:\dev\patrick\my_fitbit\ParserTests\obj\Debug\netcoreapp2.2\ParserTests.pdb

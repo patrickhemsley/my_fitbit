@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "my_fitbit", "my_fitbit\my_fitbit.fsproj", "{952F93E0-B981-40A8-BD16-985FBAE484E8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Parser", "Parser\Parser.fsproj", "{545DEC6F-9577-477B-94A2-01EADBA281C9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ParserTests", "ParserTests\ParserTests.fsproj", "{B9AAB157-E097-4C1A-B82F-7D1F937040D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952F93E0-B981-40A8-BD16-985FBAE484E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952F93E0-B981-40A8-BD16-985FBAE484E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952F93E0-B981-40A8-BD16-985FBAE484E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952F93E0-B981-40A8-BD16-985FBAE484E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545DEC6F-9577-477B-94A2-01EADBA281C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545DEC6F-9577-477B-94A2-01EADBA281C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545DEC6F-9577-477B-94A2-01EADBA281C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545DEC6F-9577-477B-94A2-01EADBA281C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9AAB157-E097-4C1A-B82F-7D1F937040D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AAB157-E097-4C1A-B82F-7D1F937040D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AAB157-E097-4C1A-B82F-7D1F937040D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AAB157-E097-4C1A-B82F-7D1F937040D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DDFFADB-E613-4944-9E71-1C306E7D178C}
+	EndGlobalSection
+EndGlobal
